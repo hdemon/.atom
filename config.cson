@@ -1,0 +1,26 @@
+"*":
+  editor:
+    fontSize: 13
+    showInvisibles: true
+    showIndentGuide: true
+    invisibles: {}
+  core:
+    themes: [
+      "atom-dark-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+    disabledPackages: [
+      "autocomplete-plus"
+    ]
+  "exception-reporting":
+    userId: "b0d4c878-6767-bd1a-fcc7-7350ca475cd5"
+  "release-notes":
+    viewedVersion: "0.94.0"
+  welcome:
+    showOnStartup: false
+  metrics:
+    userId: "3f6e2c480004e17463376badfeb132fc9eaf3983"
+  "tree-view":
+    showOnRightSide: true
+  "autocomplete-plus":
+    liveCompletion: true
